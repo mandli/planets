@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+zombie.txt
+*.pdf
+*.png
+*.o
+*.pyc
+results/*.data
+output/*
